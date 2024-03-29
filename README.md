@@ -3,3 +3,5 @@
 #first intialization -> to push in github
 #git add abc.txt -> for file
 # git add . -> entire folder
+
+#after adding file in staging -> git commit -m "add msg"
