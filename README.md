@@ -9,3 +9,6 @@
 #fetch changes into my vscode into my github -> git pull
 
 #we need shell script (init_setup.sh) -> automate all process
+
+another way you can mention -e . in your requirement file and you can run
+pip install -r requirements.txt
